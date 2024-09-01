@@ -1,0 +1,227 @@
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\testhost.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\testhost.exe
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\TestProject1.deps.json
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\TestProject1.runtimeconfig.json
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\TestProject1.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\TestProject1.pdb
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\WebDriver.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.csproj.AssemblyReference.cache
+C:\Users\SV\source\repos\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SV\source\repos\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfoInputs.cache
+C:\Users\SV\source\repos\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfo.cs
+C:\Users\SV\source\repos\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\SV\source\repos\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.csproj.CopyComplete
+C:\Users\SV\source\repos\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\obj\Debug\net6.0\refint\TestProject1.dll
+C:\Users\SV\source\repos\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.pdb
+C:\Users\SV\source\repos\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.genruntimeconfig.cache
+C:\Users\SV\source\repos\TestProject1\TestProject1\obj\Debug\net6.0\ref\TestProject1.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\testhost.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\testhost.exe
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\nunit.engine.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\nunit.engine.api.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\nunit.engine.core.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\TestProject1.deps.json
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\TestProject1.runtimeconfig.json
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\TestProject1.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\TestProject1.pdb
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\EPPlus.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\nunit.framework.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\WebDriver.Support.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\WebDriver.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.csproj.AssemblyReference.cache
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfoInputs.cache
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfo.cs
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.csproj.CoreCompileInputs.cache
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.csproj.CopyComplete
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\obj\Debug\net6.0\refint\TestProject1.dll
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.pdb
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\obj\Debug\net6.0\TestProject1.genruntimeconfig.cache
+D:\Huflit\Năm 3\Học kì 2\Bảo đảm chất lượng phần mềm\TH\Buoi6\TestProject1\TestProject1\obj\Debug\net6.0\ref\TestProject1.dll
